@@ -2,3 +2,5 @@ Solids dispenser for Nude Foods.
 
 When user pulls down on lever to dispense product, switch is activated, which activates program to measure amount dispensed, and display on LCD screen.
 When user returns the lever, a receipt is printed indicating how many grams were dispensed and the cost.
+
+Note: The email and printing functions have been commented out of the code to avoid waste.
